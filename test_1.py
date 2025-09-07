@@ -23,3 +23,6 @@ df.show()
 
 # Stop Spark session
 spark.stop()
+
+# This is a sample PySpark script to demonstrate basic DataFrame operations.
+# It creates a Spark session, defines a schema, creates a DataFrame, and displays it.
